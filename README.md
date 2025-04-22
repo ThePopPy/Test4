@@ -3,3 +3,7 @@
 ## 111111
 
 ### 2222
+
+```bash
+pip install django
+```
