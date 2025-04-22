@@ -7,3 +7,5 @@
 ```bash
 pip install django
 ```
+
+![alt text](screenshots/screenshot5.png)
